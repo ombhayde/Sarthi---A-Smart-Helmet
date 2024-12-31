@@ -1,6 +1,12 @@
-## Description
+# Description
 
 The Smart Helmet project integrates cutting-edge technology to enhance rider safety. By utilizing accelerometers, gas sensors, GPS modules, and GSM technology, it detects accidents and alcohol presence, providing real-time notifications to emergency contacts along with precise location tracking.
+
+# Photos of Journey
+<img src="Images/image2.jpeg" alt="Smart Helmet Prototype" width="300">  <img src="Images/image3.jpeg" alt="Smart Helmet Prototype" width="300"> <img src="Images/image1.jpeg" alt="Smart Helmet Prototype" width="300" height="225">  <img src="Images/poster_ysc.jpg" alt="Smart Helmet Prototype" width="300"><img src="Images/image6.jpeg" alt="Smart Helmet Prototype" width="300"><img src="Images/image7.jpeg" alt="Smart Helmet Prototype" width="300"><img src="Images/image8.jpeg" alt="Smart Helmet Prototype" width="300" height="225"><img src="Images/image9.jpeg" alt="Smart Helmet Prototype" width="300" height="225"><img src="Images/image10.jpeg" alt="Smart Helmet Prototype" width="300" height="225"><img src="Images/image11.jpeg" alt="Smart Helmet Prototype" width="300">
+
+# Newspaper Featuring
+<img src="Images/image4.jpeg" alt="Smart Helmet Prototype" width="300" height="300px">  <img src="Images/image5.jpeg" alt="Smart Helmet Prototype" width="300" height="300">
 
 # Smart Helmet Code
 
